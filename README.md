@@ -6,14 +6,14 @@
 
 Я QA Engineer, специализируюсь на тестировании веб и мобильных приложений. С примерами моих работ можно ознакомиться в разделе "Тестовые артефакты".
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@konstantin-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/константин-овчинников-b35b0432a) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:konstemb22@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@konstantin-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ovchinnikovkonstantin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:konstemb22@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/константин-овчинников-b35b0432a" target="_blank">
+    <a href="https://www.linkedin.com/in/ovchinnikovkonstantin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Konstantin_enduro" target="_blank">
